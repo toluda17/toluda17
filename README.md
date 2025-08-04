@@ -1,5 +1,15 @@
 # Hi, I’m Toluwani 👋🏾  
 
+Aspiring Security Engineer | SOC Analyst in Training | BSc. Computing Science @ University of Glasgow
+
+---
+
+## 🚀 About Me
+- Passionate about blue team security, detection engineering, and digital forensics
+- Security+ certified with hands-on experience in threat detection, Linux security, and SIEM tools
+- Actively working through Pwn College and developing low-level skills in C and Linux
+- Building my own security tooling and lab environments to simulate and detect real-world attacks
+
 <!--
 **toluda17/toluda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
