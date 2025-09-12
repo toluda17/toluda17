@@ -9,6 +9,7 @@ Aspiring Security Engineer | SOC Analyst in Training | BSc. Computing Science @ 
 - Security+ certified with hands-on experience in threat detection, Linux security, and SIEM tools
 - Actively working through Pwn College and developing low-level skills in C and Linux
 - Building my own security tooling and lab environments to simulate and detect real-world attacks
+- Building skills in cloud and AI security, with an interest in how these technologies intersect with detection engineering and enterprise defense
 
 <!--
 **toluda17/toluda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
