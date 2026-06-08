@@ -1,15 +1,15 @@
 # Hi, I’m Toluwani 👋🏾  
 
-Aspiring Security Engineer | SOC Analyst in Training | BSc. Computing Science @ University of Glasgow
+Aspiring Security Engineer | BSc. Computing Science @ University of Glasgow
 
----
+Computing Science student at the University of Glasgow with a deep interest in cloud security, detection engineering, and AI security. I spend most of my time building things that simulate or defend against real attacks, whether that's writing detection rules, poking at LLM vulnerabilities, or setting up lab environments to test ideas properly.
 
-## 🚀 About Me
-- Passionate about blue team security: SOC analysis, detection engineering, and threat hunting.
-- Security+ and CySA+ certified with hands-on experience in threat detection, Linux security, and SIEM tools
-- Actively working through Pwn College and developing low-level skills in C and Linux
-- Building my own security tooling and lab environments to simulate and detect real-world attacks
-- Building skills in cloud and AI security, with an interest in how these technologies intersect with detection engineering and enterprise defense.
+🔐 focused on: cloud security · detection engineering · AI/LLM security  
+🛠️ working with: Python,Java, C, Rust (learning), Bash, AWS, Boto3, Azure, Microsoft Sentinel, Splunk, Wazuh, Linux  
+📜 certs: Security+ | CySA+ | AWS CCP | AWS SAA | LPIC Essentials | Splunk Core Certified  
+
+📫 [toluwani.dev](https://www.toluwani.dev)
+[LinkedIn](https://linkedin.com/in/toluwani-david-ashiru)
 
 <!--
 **toluda17/toluda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
