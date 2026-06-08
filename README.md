@@ -2,7 +2,7 @@
 
 Aspiring Security Engineer | BSc. Computing Science @ University of Glasgow
 
-Computing Science student at the University of Glasgow with a deep interest in cloud security, detection engineering, and AI security. I spend most of my time building things that simulate or defend against real attacks, whether that's writing detection rules, poking at LLM vulnerabilities, or setting up lab environments to test ideas properly.
+I have a deep interest in cloud security, detection engineering, and AI security. I spend most of my time building things that simulate or defend against real attacks, whether that's writing detection rules, poking at LLM vulnerabilities, or setting up lab environments to test ideas properly.
 
 🔐 focused on: cloud security · detection engineering · AI/LLM security  
 🛠️ working with: Python,Java, C, Rust (learning), Bash, AWS, Boto3, Azure, Microsoft Sentinel, Splunk, Wazuh, Linux  
