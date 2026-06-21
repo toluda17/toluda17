@@ -6,7 +6,7 @@ I have a deep interest in cloud security, detection engineering, and AI security
 
 🔐 focused on: cloud security · detection engineering · AI/LLM security  
 🛠️ working with: Python,Java, C, Rust (learning), Bash, AWS, Boto3, Azure, Microsoft Sentinel, Splunk, Wazuh, Linux  
-📜 certs: Security+ | CySA+ | AWS CCP | AWS SAA | LPIC Essentials | Splunk Core Certified  
+📜 certs: Security+ | CySA+ | AWS CCP | AWS Solutions Architect Associate | LPIC Essentials | Splunk Core Certified  
 
 📫 [toluwani.dev](https://www.toluwani.dev)
 [LinkedIn](https://linkedin.com/in/toluwani-david-ashiru)
